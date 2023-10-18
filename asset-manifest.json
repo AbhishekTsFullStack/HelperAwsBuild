@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.743207ea.css",
-    "main.js": "/static/js/main.7283d143.js",
+    "main.css": "/static/css/main.96f5e2d9.css",
+    "main.js": "/static/js/main.77254235.js",
     "static/js/787.f242543d.chunk.js": "/static/js/787.f242543d.chunk.js",
     "static/media/AboutusBackground.jpg": "/static/media/AboutusBackground.de882303b0181284ca86.jpg",
     "static/media/TermsAndConditionBackgound.jpg": "/static/media/TermsAndConditionBackgound.ce0f2b6a9f6f547b2cb7.jpg",
@@ -30,7 +30,6 @@
     "static/media/24l7Services.png": "/static/media/24l7Services.d7a7b247fed6af67818d.png",
     "static/media/SecurityGuard.png": "/static/media/SecurityGuard.251cb93b5e773e5deb19.png",
     "static/media/CarServicing.png": "/static/media/CarServicing.b914dc1bf8f14d4af1b6.png",
-    "static/media/Subscription.png": "/static/media/Subscription.35d33035ca30b9206983.png",
     "static/media/FastService.png": "/static/media/FastService.e8d61896a72ae18ab538.png",
     "static/media/DayTodaySupply.png": "/static/media/DayTodaySupply.de711d31bb28ef669518.png",
     "static/media/ElectricianServices.png": "/static/media/ElectricianServices.ea1cfe73fdbf257c8558.png",
@@ -39,12 +38,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.743207ea.css.map": "/static/css/main.743207ea.css.map",
-    "main.7283d143.js.map": "/static/js/main.7283d143.js.map",
+    "main.96f5e2d9.css.map": "/static/css/main.96f5e2d9.css.map",
+    "main.77254235.js.map": "/static/js/main.77254235.js.map",
     "787.f242543d.chunk.js.map": "/static/js/787.f242543d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.743207ea.css",
-    "static/js/main.7283d143.js"
+    "static/css/main.96f5e2d9.css",
+    "static/js/main.77254235.js"
   ]
 }
