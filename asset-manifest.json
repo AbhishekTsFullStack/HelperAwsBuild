@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.96f5e2d9.css",
-    "main.js": "/static/js/main.77254235.js",
+    "main.css": "/static/css/main.a58c5f92.css",
+    "main.js": "/static/js/main.42a37b40.js",
     "static/js/787.f242543d.chunk.js": "/static/js/787.f242543d.chunk.js",
     "static/media/AboutusBackground.jpg": "/static/media/AboutusBackground.de882303b0181284ca86.jpg",
     "static/media/TermsAndConditionBackgound.jpg": "/static/media/TermsAndConditionBackgound.ce0f2b6a9f6f547b2cb7.jpg",
@@ -19,6 +19,7 @@
     "static/media/BestQuality.png": "/static/media/BestQuality.d28fc4c02bda264fdc19.png",
     "static/media/Medicine.png": "/static/media/Medicine.cb2ee3e7c7226924dddc.png",
     "static/media/InteriorDesigner.png": "/static/media/InteriorDesigner.13861434ad081d1545f6.png",
+    "static/media/HelperDash.jpg": "/static/media/HelperDash.811c81331d91df1d7608.jpg",
     "static/media/ResturantService.png": "/static/media/ResturantService.de17a72fa23077c41aa6.png",
     "static/media/PlumberServices.png": "/static/media/PlumberServices.9b9ec523ae89730cab5f.png",
     "static/media/ProffServices.png": "/static/media/ProffServices.9885c7e29cd1e90bb532.png",
@@ -38,12 +39,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.96f5e2d9.css.map": "/static/css/main.96f5e2d9.css.map",
-    "main.77254235.js.map": "/static/js/main.77254235.js.map",
+    "main.a58c5f92.css.map": "/static/css/main.a58c5f92.css.map",
+    "main.42a37b40.js.map": "/static/js/main.42a37b40.js.map",
     "787.f242543d.chunk.js.map": "/static/js/787.f242543d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96f5e2d9.css",
-    "static/js/main.77254235.js"
+    "static/css/main.a58c5f92.css",
+    "static/js/main.42a37b40.js"
   ]
 }
